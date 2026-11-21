@@ -1,0 +1,17 @@
+{
+  "name": "ZEE TRADE MASTER",
+  "short_name": "ZTM Live",
+  "description": "PSX All 570 Companies Live Rates, Watchlist, RSI(14), Urdu Alerts & 6-Chart Terminal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071626",
+  "theme_color": "#071626",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
